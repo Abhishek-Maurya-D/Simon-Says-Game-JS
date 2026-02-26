@@ -10,7 +10,7 @@ and structured game logic.
 ## 🚀 Live Demo
 
 👉 Add your GitHub Pages link here\
-https://your-username.github.io/Simon-Says-Game-JS/
+https://abhishek-maurya-d.github.io/Simon-Says-Game-JS/
 
 ------------------------------------------------------------------------
 
