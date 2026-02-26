@@ -16,13 +16,13 @@ https://your-username.github.io/Simon-Says-Game-JS/
 
 ## 📌 Features
 
--   🎯 Level-based progression system\
--   🧠 Memory sequence generation\
--   ✨ Smooth button animations\
--   📊 Score & High Score tracking\
--   📱 Fully responsive design (mobile-friendly)\
--   🎨 Modern UI with gradient background\
--   ⚡ Clean and optimized JavaScript logic\
+-   🎯 Level-based progression system
+-   🧠 Memory sequence generation
+-   ✨ Smooth button animations
+-   📊 Score & High Score tracking
+-   📱 Fully responsive design (mobile-friendly)
+-   🎨 Modern UI with gradient background
+-   ⚡ Clean and optimized JavaScript logic
 -   🛠 Structured and maintainable code
 
 ------------------------------------------------------------------------
@@ -31,14 +31,15 @@ https://your-username.github.io/Simon-Says-Game-JS/
 
 *Add a screenshot of your project here*
 
-![Simon Says Preview](./screenshot.png)
+Simon Says Preview
+<img width="1366" height="768" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/379d064a-601d-4df9-a8b6-faa14908b3e6" />
 
 ------------------------------------------------------------------------
 
 ## 🛠 Tech Stack
 
--   **HTML5** -- Semantic structure\
--   **CSS3** -- Grid layout, animations, responsive design\
+-   **HTML5** -- Semantic structure
+-   **CSS3** -- Grid layout, animations, responsive design
 -   **JavaScript (ES6)** -- Game logic & interactivity
 
 ------------------------------------------------------------------------
@@ -68,7 +69,7 @@ https://your-username.github.io/Simon-Says-Game-JS/
 
 1.  Clone the repository:
 
-    git clone https://github.com/your-username/Simon-Says-Game-JS.git
+    git clone https://github.com/Abhishek-Maurya-D/Simon-Says-Game-JS
 
 2.  Navigate into the project folder:
 
@@ -80,30 +81,30 @@ https://your-username.github.io/Simon-Says-Game-JS/
 
 ## 🧠 Concepts Practiced
 
--   DOM Manipulation\
--   Event Listeners\
--   setTimeout & setInterval\
--   Arrays & Game State Management\
--   Conditional Logic\
--   CSS Transitions & Animations\
+-   DOM Manipulation
+-   Event Listeners
+-   setTimeout & setInterval
+-   Arrays & Game State Management
+-   Conditional Logic
+-   CSS Transitions & Animations
 -   Responsive Web Design
 
 ------------------------------------------------------------------------
 
 ## 🔥 Future Improvements
 
--   🔊 Add sound effects for each button\
--   💾 Store high score using `localStorage`\
--   🎚 Add difficulty modes (Easy / Medium / Hard)\
--   ⏱ Add timed challenge mode\
--   🌙 Dark/Light theme toggle\
+-   🔊 Add sound effects for each button
+-   💾 Store high score using `localStorage`
+-   🎚 Add difficulty modes (Easy / Medium / Hard)
+-   ⏱ Add timed challenge mode
+-   🌙 Dark/Light theme toggle
 -   🏆 Add leaderboard system
 
 ------------------------------------------------------------------------
 
 ## 👨‍💻 Author
 
-**Abhishek Maurya**\
+**Abhishek Maurya**
 Frontend & JavaScript Enthusiast
 
 ------------------------------------------------------------------------
